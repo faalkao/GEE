@@ -15,4 +15,10 @@ A Google account is required to analyze with Google Earth Engine. If you do not 
 Click PLATFORM → CODE EDITOR in the upper right. Future analysis will be done on the page called CODE EDITOR, so it is convenient to add this page to your bookmarks (favorites).
 
 # [Screen description](https://earthengine.google.com/platform/)
+# Explanation of JavaScript
+In this book, we will write the code using the programming language called JavaScript. JavaScript is a language that is often used for purposes such as adding movement to web pages. It is also popular as an introductory language for programming because you can visualize the result while executing the code. Only the basic syntax of JavaScript is used in this book, so don't worry if you don't know JavaScript. We will explain it on the spot if necessary, but if you are still worried, you may want to take a look at the JavaScript tutorial of Google Earth Engine .
+
+# Summary
+# [Chapter 3: Displaying satellite images]()
+
 
