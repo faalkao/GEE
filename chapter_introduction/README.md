@@ -1,4 +1,4 @@
-# Chapter 1: Introduction
+# [Chapter 1: Introduction](https://github.com/faalkao/GEE/tree/master/chapter_introduction)
 ## Preface
 What do you think of when you hear the keyword "artificial satellite"? Many may think of Hayabusa, who went to the asteroid Itokawa and returned to Earth in 2010. Actually, some artificial satellites are not only planetary explorers that search the universe like Hayabusa, but also satellites that rotate around the earth to observe the global environment. The latter is about 4,600, and so many satellites are in operation. Now, of course, such artificial satellites are not just around the earth. It is used for various purposes such as monitoring deforestation in the Amazon and observing glacier melting due to climate change. It's such a convenient satellite image, but until now, you couldn't get it without paying tens of thousands of yen to get an image taken by an artificial satellite. However, in recent years, the wave of open data has pushed into the world of satellite observation, and now many images can be used free of charge.
 
@@ -18,4 +18,4 @@ The target audience of this document is as follows.
 On the other hand, the following readers may not be enough in this book.
 - Those who are already familiar with Google Earth Engine
 
-#
+# Chapter 2: Let's look at satellite images
