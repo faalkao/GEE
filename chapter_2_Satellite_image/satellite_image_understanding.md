@@ -5,4 +5,4 @@ Before analyzing and seeing it, let's actually see the satellite image. There is
 
 This page displays satellite images taken every year in time lapse. If you fly to this page, you can see the neighborhood of Miami in the United States.
 ![GitHub Logo](/image/logo.png)
-Format: ![Alt Text](url)
+Format: ![Alt Text](https://github.com/faalkao/GEE/blob/master/chapter_2_Satellite_image/Selection_218.png)
